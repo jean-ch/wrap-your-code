@@ -2,6 +2,10 @@
 	"name": "wrap-your-code",
 	"displayName": "wrap your code",
 	"description": "Use to wrap your code with specified identity",
+	"repository": {
+    "type": "git",
+    "url": "https://github.com/jean-ch/wrap-your-code.git"
+  },
 	"version": "1.0.0",
 	"publisher": "jingxuan",
 	"engines": {
